@@ -9,4 +9,4 @@
 
 # 📊  Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=lQueijodedev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Queijodedev&layout=compact)
