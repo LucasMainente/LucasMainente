@@ -1,4 +1,4 @@
-![java-script](https://github.com/user-attachments/assets/1bad1239-e7fb-4f01-89da-35934fd4f57d)- 👋 Hi, I’m @LucasMainente
+ 👋 Hi, I’m @LucasMainente
 - 👀 I’m interested: Developing games
 - 🌱 I’m currently learning : C++, C#, HTML
 - ⚡ Fun fact : Games
