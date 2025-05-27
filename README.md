@@ -1,6 +1,6 @@
  👋 Hi, I’m @LucasMainente
 - 👀 I’m interested: Developing games
-- 🌱 I’m currently learning : C++, C#, HTML
+- 🌱 Currently and I have already learned: C++, C#, HTML, React, JavaScript
 - ⚡ Fun fact : Games
 
 # 💻 Tech Stack:
