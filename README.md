@@ -10,4 +10,4 @@
  <img src="https://iconscout.com/pt/icon/js-9305882_7694081">
 # 📊  Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Queijodedev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Queijodedev&layout=wide)
